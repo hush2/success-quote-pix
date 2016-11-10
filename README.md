@@ -1,6 +1,4 @@
-# Noypi Love Quotes
+# Success Quote Pix
 
 An Android app made in Java & Android Studio.
 
-####Credits
-- freepik.com for the images
